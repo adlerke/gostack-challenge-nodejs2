@@ -1,4 +1,3 @@
-/* eslint-disable prettier/prettier */
 import Transaction from '../models/Transaction';
 
 interface Balance {
